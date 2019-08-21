@@ -17,7 +17,7 @@ $postData = '{
   "intent": "sale",
   "experience_profile_id":"'.$webprofileid.'",
   "redirect_urls": {
-    "return_url": "http://127.0.0.1/PHP-Sample/executePayment.php",
+    "return_url": "https://v1fullpage.herokuapp.com/executePayment.php",
     "cancel_url": "http://www.paypal.com"
   },
   "payer": {
