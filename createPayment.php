@@ -59,5 +59,6 @@ $res = getApprovalURL($access_token, $postData);
 //print json_encode($res);
 //echo '<pre>'; print_r($res); //exit;
 $approval_url = $res['links'][1]['href']; 
-header("Location:" . $approval_url); 
+return json_encode($approval_url);
+//header("Location:" . $approval_url); 
 ?>
