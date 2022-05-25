@@ -13,8 +13,8 @@
 
 
     //PayPal REST App SG(muru_sgbus@pp.com) SANDBOX Client Id and Client Secret
-    define("SANDBOX_CLIENT_ID" , "AYPRSHXvddDzYq36L_Ya3Um0zMdKQ-RdYKvmq9PW-x5Nu1FWTAzoH95EHE5kA4rjzvmi-oT5EWR_caDu");
-	define("SANDBOX_CLIENT_SECRET", "ED91SXDfqjwbOmEU9Op8O_k6ymKSA8fjtVuKcu1Xd4JNEtjleAh7ouwtXGYDna8-uSrBErDDE6Y7tSFF");
+    define("SANDBOX_CLIENT_ID" , "");
+	define("SANDBOX_CLIENT_SECRET", "");
 
 	
 
